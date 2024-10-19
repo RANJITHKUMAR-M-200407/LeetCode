@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1333-sort-the-jumbled-numbers](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-running-sum-of-1d-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1635-number-of-good-pairs](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0001-two-sum) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1635-number-of-good-pairs](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1635-number-of-good-pairs](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -47,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1791-richest-customer-wealth) |
+## Math
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
