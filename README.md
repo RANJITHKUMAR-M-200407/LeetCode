@@ -56,4 +56,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2752-sum-multiples](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2752-sum-multiples) |
 <!---LeetCode Topics End-->
