@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Simulation
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Prefix Sum
 |  |
