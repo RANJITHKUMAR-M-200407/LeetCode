@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0342-power-of-four) |
+| [1086-divisor-game](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1086-divisor-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2083-three-divisors](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2083-three-divisors) |
@@ -134,4 +135,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1086-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
