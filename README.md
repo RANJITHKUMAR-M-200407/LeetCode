@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1651-shuffle-string](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1651-shuffle-string) |
 | [1791-richest-customer-wealth](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1205-defanging-an-ip-address) |
+| [1651-shuffle-string](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1651-shuffle-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3379-score-of-a-string) |
