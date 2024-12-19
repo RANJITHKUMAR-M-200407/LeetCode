@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1333-sort-the-jumbled-numbers](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1205-defanging-an-ip-address) |
