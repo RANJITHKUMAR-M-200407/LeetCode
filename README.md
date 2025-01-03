@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0875-longest-mountain-in-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0875-longest-mountain-in-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [2083-three-divisors](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2083-three-divisors) |
 ## Number Theory
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0875-longest-mountain-in-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## String
 |  |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0875-longest-mountain-in-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1086-divisor-game](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1086-divisor-game) |
 ## Brainteaser
 |  |
