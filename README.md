@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2502-sort-the-people](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2502-sort-the-people) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-convert-the-temperature](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
