@@ -1,9 +1,7 @@
 class Solution {
     public int[] leftRightDifference(int[] nums) {
-    int lsum=0; 
-    int lsum1=0;   
+    int lsum=0;    
     int rsum=0;
-    int rsum1=0;
     int[]larr=new int[nums.length];
     int[]rarr=new int[nums.length];
     int[]ans=new int[nums.length];
