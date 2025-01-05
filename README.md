@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2502-sort-the-people) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3194-find-words-containing-character](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Sorting
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2608-count-the-digits-that-divide-a-number](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2752-sum-multiples](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Bit Manipulation
 |  |
 | ------- |
