@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3582-find-indices-of-stable-mountains](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
 ## Sorting
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2752-sum-multiples](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Bit Manipulation
 |  |
 | ------- |
