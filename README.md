@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0875-longest-mountain-in-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2442-number-of-arithmetic-triplets](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1205-defanging-an-ip-address) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1651-shuffle-string](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1651-shuffle-string) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1944-truncate-sentence](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1944-truncate-sentence) |
@@ -222,5 +224,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
