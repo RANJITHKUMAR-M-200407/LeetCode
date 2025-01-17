@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2442-number-of-arithmetic-triplets](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2502-sort-the-people) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2442-number-of-arithmetic-triplets](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2502-sort-the-people) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3412-permutation-difference-between-two-strings](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Simulation
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Prefix Sum
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2383-add-two-integers) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2491-smallest-even-multiple](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2491-smallest-even-multiple) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2556-convert-the-temperature](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
