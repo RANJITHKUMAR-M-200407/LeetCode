@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0204-count-primes) |
 | [0349-intersection-of-two-arrays](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1333-sort-the-jumbled-numbers](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0349-intersection-of-two-arrays) |
