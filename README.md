@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3194-find-words-containing-character](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3379-score-of-a-string) |
+| [3396-valid-word](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3396-valid-word) |
 | [3412-permutation-difference-between-two-strings](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Heap (Priority Queue)
 |  |
