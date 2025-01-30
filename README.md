@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2502-sort-the-people](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2502-sort-the-people) |
