@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2383-add-two-integers) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2491-smallest-even-multiple](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2556-convert-the-temperature](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-longest-mountain-in-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [2083-three-divisors](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2083-three-divisors) |
 | [2442-number-of-arithmetic-triplets](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2507-number-of-common-factors](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2507-number-of-common-factors) |
 ## Number Theory
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2507-number-of-common-factors) |
 ## Geometry
 |  |
 | ------- |
