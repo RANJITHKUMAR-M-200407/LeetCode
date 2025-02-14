@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1651-shuffle-string](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1651-shuffle-string) |
+| [1666-make-the-string-great](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1666-make-the-string-great) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1904-second-largest-digit-in-a-string](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1666-make-the-string-great](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1666-make-the-string-great) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2470-removing-stars-from-a-string](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3447-clear-digits) |
