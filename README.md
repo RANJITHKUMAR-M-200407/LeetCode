@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0782-jewels-and-stones) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1156-occurrences-after-bigram](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1156-occurrences-after-bigram) |
 | [1205-defanging-an-ip-address](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1666-make-the-string-great](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1666-make-the-string-great) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2470-removing-stars-from-a-string](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2470-removing-stars-from-a-string) |
