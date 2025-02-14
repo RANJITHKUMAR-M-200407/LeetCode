@@ -1,19 +1,13 @@
 class Solution {
     public int minAddToMakeValid(String s) {
-        int op=0;
-        int cp=0;
-        for(int i=0;i<s.length();i++)
-        {
-        if(s.charAt(i)=='(')
-        {
-       op++;
+        Stack<Character> st = new Stack<>();
+        for (char c : s.toCharArray()) {
+            if (c == ')' && !st.isEmpty() && st.peek() == '(') {
+                st.pop();  // Valid pair found, remove it
+            } else {
+                st.push(c);  // Push only unmatched parentheses
+            }
         }
-        else if(s.charAt(i)==')' && op>0)
-        {
-            op--;
-        }
-        else cp++;
-        }
-        return op+cp;
+        return st.size();  // Unmatched parentheses count
     }
 }
