@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1086-divisor-game) |
+| [1260-day-of-the-year](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1260-day-of-the-year) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1156-occurrences-after-bigram](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1156-occurrences-after-bigram) |
 | [1205-defanging-an-ip-address](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1205-defanging-an-ip-address) |
+| [1260-day-of-the-year](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1260-day-of-the-year) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1651-shuffle-string](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1651-shuffle-string) |
