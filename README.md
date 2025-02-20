@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2470-removing-stars-from-a-string](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3226-minimum-number-game](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3226-minimum-number-game) |
 | [3447-clear-digits](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3447-clear-digits) |
 ## Counting
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2502-sort-the-people) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2887-sort-vowels-in-a-string](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3379-score-of-a-string) |
@@ -354,5 +356,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2470-removing-stars-from-a-string](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
