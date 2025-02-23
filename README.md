@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2502-sort-the-people](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2502-sort-the-people) |
 | [2561-number-of-distinct-averages](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2561-number-of-distinct-averages) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2383-add-two-integers](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2383-add-two-integers) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 ## Counting Sort
 |  |
