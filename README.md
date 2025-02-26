@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [1791-richest-customer-wealth](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Math
 |  |
 | ------- |
