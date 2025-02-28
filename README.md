@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0054-spiral-matrix](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0415-add-strings) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
