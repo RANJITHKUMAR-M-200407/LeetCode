@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2502-sort-the-people) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2551-apply-operations-to-an-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2470-removing-stars-from-a-string](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [2551-apply-operations-to-an-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3226-minimum-number-game](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3226-minimum-number-game) |
 | [3447-clear-digits](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3447-clear-digits) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2442-number-of-arithmetic-triplets](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2481-strictly-palindromic-number](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2481-strictly-palindromic-number) |
+| [2551-apply-operations-to-an-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String
