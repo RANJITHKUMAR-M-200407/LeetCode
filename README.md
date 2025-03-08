@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0204-count-primes) |
