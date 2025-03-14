@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1552-build-an-array-with-stack-operations](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0682-baseball-game) |
 | [1505-create-target-array-in-the-given-order](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
+| [1552-build-an-array-with-stack-operations](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0682-baseball-game) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1552-build-an-array-with-stack-operations](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1666-make-the-string-great](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1666-make-the-string-great) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2128-reverse-prefix-of-word) |
