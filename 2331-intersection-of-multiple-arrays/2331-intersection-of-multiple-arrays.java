@@ -6,8 +6,8 @@ class Solution {
         {
             for(int j=0;j<nums[i].length;j++)
             {
-           int val=nums[i][j];
-           arr[val]++;
+        //    int val=nums[i][j];
+           arr[nums[i][j]]++;
             }
         }
         ArrayList<Integer> list = new ArrayList<>();
