@@ -1,12 +1,12 @@
 class Solution {
     public List<Integer> intersection(int[][] nums) {
         int[]arr = new int[1001];
-        int val=0;
+    
         for(int i=0;i<nums.length;i++)
         {
             for(int j=0;j<nums[i].length;j++)
             {
-           val=nums[i][j];
+           int val=nums[i][j];
            arr[val]++;
             }
         }
