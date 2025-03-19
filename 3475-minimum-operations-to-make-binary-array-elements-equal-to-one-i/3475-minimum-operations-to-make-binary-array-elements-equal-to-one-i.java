@@ -19,7 +19,6 @@ class Solution {
         }
         }
        } 
-       System.out.print(Arrays.toString(nums));
        for(int i=0;i<nums.length;i++)
        {
         if(nums[i]==0)  return -1;
