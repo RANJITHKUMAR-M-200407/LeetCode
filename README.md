@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0566-reshape-the-matrix](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0643-maximum-average-subarray-i](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0682-baseball-game) |
 | [0777-toeplitz-matrix](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0777-toeplitz-matrix) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Divide and Conquer
