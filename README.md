@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3429-special-array-i](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3429-special-array-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3463-alternating-groups-i](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3463-alternating-groups-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3463-alternating-groups-i](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3463-alternating-groups-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Divide and Conquer
 |  |
