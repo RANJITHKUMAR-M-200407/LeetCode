@@ -1,6 +1,6 @@
 class Solution {
     public String frequencySort(String s) {
-        int[]arr = new int[256];
+        int[]arr = new int[128];
         HashMap<Character,Integer> map = new HashMap<>();
         for(int i=0;i<s.length();i++)
         {
