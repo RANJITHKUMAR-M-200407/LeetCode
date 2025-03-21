@@ -13,11 +13,11 @@ class Solution {
       {
         if(candies[i]+extraCandies>=max)
         {
-            a.add(i,true);
+            a.add(true);
         }
         else
         {
-            a.add(i,false);
+            a.add(false);
         }
       }
       return a;
