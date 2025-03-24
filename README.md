@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1046-max-consecutive-ones-iii](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2714-left-and-right-sum-differences](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2714-left-and-right-sum-differences) |
@@ -504,4 +506,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
