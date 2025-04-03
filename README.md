@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2102-find-the-middle-index-in-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [2102-find-the-middle-index-in-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2714-left-and-right-sum-differences](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
