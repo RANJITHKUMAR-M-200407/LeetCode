@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1552-build-an-array-with-stack-operations](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1333-sort-the-jumbled-numbers](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1970-sorting-the-sentence](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1904-second-largest-digit-in-a-string](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
