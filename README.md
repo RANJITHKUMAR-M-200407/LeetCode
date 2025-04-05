@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Sorting
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3412-permutation-difference-between-two-strings](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Simulation
 |  |
 | ------- |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Bit Manipulation
 |  |
