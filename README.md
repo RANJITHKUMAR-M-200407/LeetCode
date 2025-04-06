@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2714-left-and-right-sum-differences](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2737-row-with-maximum-ones](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [2777-find-the-distinct-difference-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2777-find-the-distinct-difference-array) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2502-sort-the-people) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2561-number-of-distinct-averages](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2561-number-of-distinct-averages) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2777-find-the-distinct-difference-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2777-find-the-distinct-difference-array) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2551-apply-operations-to-an-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2561-number-of-distinct-averages) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
