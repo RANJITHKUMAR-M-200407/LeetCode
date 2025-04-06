@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2398-check-if-matrix-is-x-matrix](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2442-number-of-arithmetic-triplets](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2447-merge-similar-items](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2447-merge-similar-items) |
 | [2502-sort-the-people](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2502-sort-the-people) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2551-apply-operations-to-an-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2331-intersection-of-multiple-arrays](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2447-merge-similar-items](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2447-merge-similar-items) |
 | [2502-sort-the-people](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2502-sort-the-people) |
 | [2561-number-of-distinct-averages](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2887-sort-vowels-in-a-string](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2331-intersection-of-multiple-arrays](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2427-first-letter-to-appear-twice](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2442-number-of-arithmetic-triplets](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2447-merge-similar-items](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2447-merge-similar-items) |
 | [2502-sort-the-people](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2502-sort-the-people) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2561-number-of-distinct-averages](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2561-number-of-distinct-averages) |
@@ -568,4 +571,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2447-merge-similar-items](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2447-merge-similar-items) |
 <!---LeetCode Topics End-->
