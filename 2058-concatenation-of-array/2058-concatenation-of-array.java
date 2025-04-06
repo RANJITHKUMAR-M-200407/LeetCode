@@ -1,11 +1,10 @@
 class Solution {
     public int[] getConcatenation(int[] nums) {
-         int[] ans=new int[nums.length];
-        for(int i=0;i<nums.length;i++)
+        int[]arr = new int[nums.length+nums.length];
+        for(int i=0;i<arr.length;i++)
         {
-          ans[i]=nums[i];
+            arr[i]=nums[i%nums.length];
         }
-        int[] result = IntStream.concat(Arrays.stream(nums), Arrays.stream(ans)).toArray();
-        return result;
+        return arr;
     }
 }
