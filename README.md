@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3778-transform-array-by-parity](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Sorting
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3226-minimum-number-game) |
+| [3778-transform-array-by-parity](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [3778-transform-array-by-parity](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Prefix Sum
 |  |
 | ------- |
