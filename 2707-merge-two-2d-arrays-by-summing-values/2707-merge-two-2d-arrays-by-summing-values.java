@@ -17,7 +17,7 @@ class Solution {
         }
         int[][]ans = new int[map.size()][2];
         int ind=0;
-        for (int i = 1; i <=max; i++) {
+        for (int i = min; i <=max; i++) {
             if(map.containsKey(i))  {
                 ans[ind][0]=i;
                 ans[ind][1]=map.get(i);
