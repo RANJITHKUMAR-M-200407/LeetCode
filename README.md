@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0342-power-of-four) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0875-longest-mountain-in-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1013-fibonacci-number](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1013-fibonacci-number) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
