@@ -1,7 +1,6 @@
 class Solution {
     public int numSpecial(int[][] mat) {
         int count1=0;
-        int ans=0;
         int res=0;
         int c1v=0;
         for(int i=0;i<mat.length;i++)
