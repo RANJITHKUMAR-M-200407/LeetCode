@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1651-shuffle-string) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1791-richest-customer-wealth](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1839-decode-xored-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1839-decode-xored-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1791-richest-customer-wealth](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
