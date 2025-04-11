@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2649-count-total-number-of-colored-cells](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2752-sum-multiples](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2752-sum-multiples) |
+| [2998-count-symmetric-integers](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2083-three-divisors) |
 | [2442-number-of-arithmetic-triplets](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2507-number-of-common-factors](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2507-number-of-common-factors) |
+| [2998-count-symmetric-integers](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2998-count-symmetric-integers) |
 ## Number Theory
 |  |
 | ------- |
