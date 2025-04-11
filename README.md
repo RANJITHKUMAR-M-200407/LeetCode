@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0941-sort-array-by-parity](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1044-find-common-characters](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1333-sort-the-jumbled-numbers](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1044-find-common-characters](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1044-find-common-characters) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1044-find-common-characters](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1044-find-common-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1156-occurrences-after-bigram](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1156-occurrences-after-bigram) |
 | [1205-defanging-an-ip-address](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1205-defanging-an-ip-address) |
