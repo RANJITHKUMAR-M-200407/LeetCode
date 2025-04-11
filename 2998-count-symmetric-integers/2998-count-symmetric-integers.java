@@ -10,7 +10,7 @@ class Solution {
             sum2=0;
             int val=i;
         String a = String.valueOf(val);
-        if(a.length()%2 == 0 && a.length() > 1) 
+        if(a.length()%2 == 0) 
         {
    for(int j=0;j<a.length()/2;j++)
    {
