@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2442-number-of-arithmetic-triplets](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2447-merge-similar-items](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2447-merge-similar-items) |
+| [2486-most-frequent-even-element](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2502-sort-the-people) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2551-apply-operations-to-an-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2442-number-of-arithmetic-triplets](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2447-merge-similar-items](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2447-merge-similar-items) |
+| [2486-most-frequent-even-element](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2502-sort-the-people) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2561-number-of-distinct-averages](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2561-number-of-distinct-averages) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2427-first-letter-to-appear-twice](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
+| [2486-most-frequent-even-element](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
