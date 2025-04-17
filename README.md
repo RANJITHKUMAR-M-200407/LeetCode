@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2442-number-of-arithmetic-triplets](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2447-merge-similar-items](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2447-merge-similar-items) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-rings-and-rods](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2226-rings-and-rods) |
 | [2308-divide-array-into-equal-pairs](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2442-number-of-arithmetic-triplets](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2447-merge-similar-items](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2447-merge-similar-items) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
