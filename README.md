@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3226-minimum-number-game) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3447-clear-digits) |
+| [3540-hash-divided-string](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3540-hash-divided-string) |
 ## Counting
 |  |
 | ------- |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3412-permutation-difference-between-two-strings](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3447-clear-digits) |
+| [3540-hash-divided-string](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3540-hash-divided-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
