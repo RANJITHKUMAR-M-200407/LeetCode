@@ -14,7 +14,7 @@ class Solution {
        {
         if(arr[i]>0) ans+=arr[i];
        }
-       System.out.print(Arrays.toString(arr));
+    //    System.out.print(Arrays.toString(arr));
      return ans; 
     }
 }
