@@ -6,7 +6,7 @@ class Solution {
         map.put(nums[i],map.getOrDefault(nums[i],0)+1);
       } 
 
-      System.out.print(map);
+    //   System.out.print(map);
         int[]arr = new int[k];
       ArrayList<Integer> list = new ArrayList<>(); 
       for(int i=0;i<k;i++)
