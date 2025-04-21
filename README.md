@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1552-build-an-array-with-stack-operations](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2571-find-the-pivot-integer](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2571-find-the-pivot-integer) |
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3463-alternating-groups-i](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3463-alternating-groups-i) |
