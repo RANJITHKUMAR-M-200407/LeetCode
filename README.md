@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1500-count-largest-group](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1500-count-largest-group) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1904-second-largest-digit-in-a-string](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-day-of-the-year](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1260-day-of-the-year) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1500-count-largest-group](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
