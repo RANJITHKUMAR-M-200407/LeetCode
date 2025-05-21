@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3206-find-common-elements-between-two-arrays](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3321-type-of-triangle) |
 | [3330-modify-the-matrix](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3330-modify-the-matrix) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3429-special-array-i](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3429-special-array-i) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3226-minimum-number-game) |
+| [3321-type-of-triangle](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3321-type-of-triangle) |
 | [3778-transform-array-by-parity](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Binary Search
 |  |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3321-type-of-triangle) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
