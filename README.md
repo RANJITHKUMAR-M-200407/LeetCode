@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0342-power-of-four](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -678,4 +679,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
