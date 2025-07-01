@@ -568,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3447-clear-digits) |
 | [3540-hash-divided-string](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3540-hash-divided-string) |
+| [3617-find-the-original-typed-string-i](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Heap (Priority Queue)
 |  |
