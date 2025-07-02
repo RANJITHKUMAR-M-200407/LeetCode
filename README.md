@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0875-longest-mountain-in-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0875-longest-mountain-in-array) |
@@ -663,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Queue
