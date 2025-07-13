@@ -5,13 +5,15 @@ class Solution {
         int i=0,j=0;
         int count=0;
         while(i<players.length && j<trainers.length){
-           while(j<trainers.length && players[i]>trainers[j]){
+           if(j<trainers.length && players[i]>trainers[j]){
             j++;
+            continue;
            }
-           while((i<players.length && j<trainers.length) && players[i]<=trainers[j]){
+           if((i<players.length && j<trainers.length) && players[i]<=trainers[j]){
             count++;
             i++;
             j++;
+            continue;
            }
         }
         return count;
