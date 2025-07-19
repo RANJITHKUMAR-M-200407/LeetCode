@@ -731,17 +731,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0100-same-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0100-same-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0100-same-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0404-sum-of-left-leaves) |
 ## Breadth-First Search
 |  |
@@ -752,4 +755,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
