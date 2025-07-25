@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3704-count-partitions-with-even-sum-difference](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3778-transform-array-by-parity](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3778-transform-array-by-parity) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
 |  |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Simulation
 |  |
 | ------- |
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Counting Sort
 |  |
 | ------- |
