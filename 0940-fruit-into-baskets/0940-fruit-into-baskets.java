@@ -12,7 +12,6 @@ class Solution {
      }
      if(map.size()<=2)  max = Math.max(max,r-l+1);
      r++;
-
      }   
 return max;
     }
