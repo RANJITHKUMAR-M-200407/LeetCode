@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0371-sum-of-two-integers) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0371-sum-of-two-integers) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
