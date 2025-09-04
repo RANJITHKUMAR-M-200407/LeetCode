@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0435-non-overlapping-intervals](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0455-assign-cookies) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0435-non-overlapping-intervals](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0645-set-mismatch) |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0875-longest-mountain-in-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1013-fibonacci-number](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1086-divisor-game) |
@@ -635,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0409-longest-palindrome) |
+| [0435-non-overlapping-intervals](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0455-assign-cookies) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
