@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0940-fruit-into-baskets](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [0979-di-string-match](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0979-di-string-match) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-longest-mountain-in-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0908-middle-of-the-linked-list](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [0979-di-string-match](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0979-di-string-match) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0979-di-string-match](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0979-di-string-match) |
 | [1044-find-common-characters](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1044-find-common-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1156-occurrences-after-bigram](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1156-occurrences-after-bigram) |
@@ -650,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0561-array-partition) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0979-di-string-match](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0979-di-string-match) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
