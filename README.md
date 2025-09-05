@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2331-intersection-of-multiple-arrays](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2442-number-of-arithmetic-triplets](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2447-merge-similar-items](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2447-merge-similar-items) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2331-intersection-of-multiple-arrays](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2447-merge-similar-items](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2447-merge-similar-items) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2502-sort-the-people) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2372-rearrange-characters-to-make-target-string](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2442-number-of-arithmetic-triplets](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2447-merge-similar-items](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2447-merge-similar-items) |
 | [2486-most-frequent-even-element](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2486-most-frequent-even-element) |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2470-removing-stars-from-a-string](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -623,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3226-minimum-number-game](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3226-minimum-number-game) |
 ## Dynamic Programming
 |  |
@@ -665,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
