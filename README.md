@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2737-row-with-maximum-ones](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2737-row-with-maximum-ones) |
+| [2756-buy-two-chocolates](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2777-find-the-distinct-difference-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2777-find-the-distinct-difference-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2502-sort-the-people) |
 | [2561-number-of-distinct-averages](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2756-buy-two-chocolates](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2887-sort-vowels-in-a-string](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3226-minimum-number-game) |
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2756-buy-two-chocolates](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
