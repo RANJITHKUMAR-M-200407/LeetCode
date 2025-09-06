@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0455-assign-cookies) |
+| [0503-next-greater-element-ii](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -705,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0020-valid-parentheses) |
+| [0503-next-greater-element-ii](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -829,5 +831,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
