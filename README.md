@@ -627,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3447-clear-digits) |
 | [3540-hash-divided-string](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3540-hash-divided-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
+| [3684-substring-matching-pattern](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3684-substring-matching-pattern) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Heap (Priority Queue)
 |  |
@@ -699,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [3684-substring-matching-pattern](https://github.com/RANJITHKUMAR-M-200407/LeetCode/tree/master/3684-substring-matching-pattern) |
 ## Memoization
 |  |
 | ------- |
